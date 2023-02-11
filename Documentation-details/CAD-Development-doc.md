@@ -2,9 +2,9 @@
 
 ## SolidWorks File Updates
 
-1. Motor housings ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
-    -  Steppers
+1. LED panel rear brackets ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png)
 
-- ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) `fine tuning/levelling motor housing`
+2. pi and wiring mounting panel ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png)
+
 
 ##  STL FIle Updates
