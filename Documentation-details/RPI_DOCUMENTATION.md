@@ -32,3 +32,10 @@ This concludes section 2.
 ## Section 3
 ### TROUBLESHOOTING
 
+
+
+## Section 4
+### LED Matrix software
+
+We have been following the guide here: https://github.com/hzeller/rpi-rgb-led-matrix
+
