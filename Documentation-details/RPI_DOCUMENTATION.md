@@ -1,7 +1,7 @@
 # Raspberry PI Documentation
 ### Revision 1.0 (Pending Approval)
 
-This contains the all of the documentation for the onboard raspberry pi.
+This contains the all of the documentation for the onboard Raspberry Pi.
 
 
 ---
