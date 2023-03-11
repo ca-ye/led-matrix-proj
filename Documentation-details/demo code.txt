@@ -1,2 +1,5 @@
 make -C examples-api-use
-sudo ./demo -D0 --led-cols=64 --led-rows=32 --led-no-hardware-pulse
+
+cd rpi-rgb-led-matrix
+
+sudo ./demo -D0 --led-cols=64 --led-no-hardware-pulse
