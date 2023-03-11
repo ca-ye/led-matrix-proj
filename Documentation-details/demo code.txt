@@ -1,1 +1,2 @@
+make -C examples-api-use
 sudo ./demo -D0 --led-cols=64 --led-rows=32 --led-no-hardware-pulse
