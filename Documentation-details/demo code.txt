@@ -3,3 +3,9 @@ make -C examples-api-use
 cd rpi-rgb-led-matrix
 
 sudo ./demo -D0 --led-cols=64 --led-no-hardware-pulse
+
+
+[line 1 first-time only]
+[line 3 to see demo codes]
+[line 5 example code, change "demo" to codes from line 3]
+[Issue: full green/no green top half (faulty pin 'G1') (try other pin(shake/touch))]
