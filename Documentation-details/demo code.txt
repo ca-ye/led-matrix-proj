@@ -1,3 +1,13 @@
+navigate to examples-api-use
+use 'sudo ./[example program]' + any parameters required + '--led-cols=64 --led-gpio-mapping=ca-mapping'
+
+
+
+
+
+
+
+
 make -C examples-api-use
 
 cd rpi-rgb-led-matrix
