@@ -3,5 +3,5 @@ use 'sudo ./[example program]' + any parameters required + '--led-cols=64 --led-
 
 
 Welcome text example:
-sudo ./scrolling-text-example -f ../fonts/10x20.bdf -y 4 -C 120,120,255 Welcome to Champions Academy! --led-gpio-mapping=ca-mapping --led-cols=64
+sudo ./scrolling-text-example -f ../fonts/10x20.bdf -y 4 -C 64,64,255 Welcome to Champions Academy! --led-gpio-mapping=ca-mapping --led-cols=64
 
