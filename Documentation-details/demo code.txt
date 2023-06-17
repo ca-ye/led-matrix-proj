@@ -2,4 +2,6 @@ navigate to examples-api-use
 use 'sudo ./[example program]' + any parameters required + '--led-cols=64 --led-gpio-mapping=ca-mapping'
 
 
+Welcome example:
+sudo ./scrolling-text-example -f ../fonts/10x20.bdf -y 4 -C 120,120,255 Welcome to Champions Academy! --led-gpio-mapping=ca-mapping --led-cols=64
 
