@@ -1,0 +1,20 @@
+length 19.2 cm
+width 9.5 cm
+
+Border Size
+1.4 cm
+
+pi height
+
+1.723 cm
+
+5.48
+
+8.8mm from short side from hole centre
+8.8mm from long side from hole centre
+
+6.0mm depth for screw hole
+
+6.0mm from sides at hole edge
+
+4.4mm diameter
